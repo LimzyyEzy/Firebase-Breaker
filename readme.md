@@ -1,7 +1,7 @@
 # 🔥 Firebase Breaker Pro
 
 <div align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-red.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/version-3.0.0-red.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/build-passing-success.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge"/>
